@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\ClassLibraryCarService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBDE0B8-4991-4C48-8197-64929727332C}|UnitTest_CarService_DataInTable\\UnitTest_CarService_DataInTable.csproj|h:\\demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\classlibrarycarservice\\unittest_carservice_dataintable\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBDE0B8-4991-4C48-8197-64929727332C}|UnitTest_CarService_DataInTable\\UnitTest_CarService_DataInTable.csproj|solutionrelative:unittest_carservice_dataintable\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF13663-0A9F-409C-B712-3A02945DED1D}|ClassLibraryCarService\\ClassLibraryCarService.csproj|H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\ClassLibraryCarService\\classlibrarycarservice\\carservice_dataintadle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF13663-0A9F-409C-B712-3A02945DED1D}|ClassLibraryCarService\\ClassLibraryCarService.csproj|solutionrelative:classlibrarycarservice\\carservice_dataintadle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF13663-0A9F-409C-B712-3A02945DED1D}|ClassLibraryCarService\\ClassLibraryCarService.csproj|H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\ClassLibraryCarService\\classlibrarycarservice\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF13663-0A9F-409C-B712-3A02945DED1D}|ClassLibraryCarService\\ClassLibraryCarService.csproj|solutionrelative:classlibrarycarservice\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\ClassLibraryCarService\\UnitTest_CarService_DataInTable\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest_CarService_DataInTable\\UnitTest1.cs",
+              "ToolTip": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\ClassLibraryCarService\\UnitTest_CarService_DataInTable\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest_CarService_DataInTable\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:43:46.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\ClassLibraryCarService\\ClassLibraryCarService\\DataBase.cs",
+              "RelativeDocumentMoniker": "ClassLibraryCarService\\DataBase.cs",
+              "ToolTip": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\ClassLibraryCarService\\ClassLibraryCarService\\DataBase.cs",
+              "RelativeToolTip": "ClassLibraryCarService\\DataBase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:31:55.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarService_DataInTadle.cs",
+              "DocumentMoniker": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\ClassLibraryCarService\\ClassLibraryCarService\\CarService_DataInTadle.cs",
+              "RelativeDocumentMoniker": "ClassLibraryCarService\\CarService_DataInTadle.cs",
+              "ToolTip": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\ClassLibraryCarService\\ClassLibraryCarService\\CarService_DataInTadle.cs",
+              "RelativeToolTip": "ClassLibraryCarService\\CarService_DataInTadle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:26:41.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

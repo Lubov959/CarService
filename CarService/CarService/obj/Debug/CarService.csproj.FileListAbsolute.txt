@@ -1,0 +1,66 @@
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.csproj.AssemblyReference.cache
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.Authorization.resources
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.Properties.Resources.resources
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+H:\Demo practice\выполнение\CarService\CarService\bin\Debug\CarService.exe.config
+H:\Demo practice\выполнение\CarService\CarService\bin\Debug\CarService.exe
+H:\Demo practice\выполнение\CarService\CarService\bin\Debug\CarService.pdb
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.exe
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.pdb
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.CreateRequest.resources
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.Menu.resources
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.Request.resources
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.UpDateRequest.resources
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.ProblemDescryption.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.csproj.AssemblyReference.cache
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.Authorization.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.CreateRequest.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.Menu.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.ProblemDescryption.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.Request.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.UpDateRequest.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.Your.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.exe
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.pdb
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\bin\Debug\CarService.exe.config
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\bin\Debug\CarService.exe
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\bin\Debug\CarService.pdb
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.Properties.Resources.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.Your.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.RegRequest.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.UpDateRequestMaster.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.History.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.Users.resources
+D:\Документы\Практика\4 курс\Учебная\выполнение\CarService\CarService\obj\Debug\CarService.AllReadline.resources
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.AllReadline.resources
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.History.resources
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.RegRequest.resources
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.UpDateRequestMaster.resources
+H:\Demo practice\выполнение\CarService\CarService\obj\Debug\CarService.Users.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.csproj.AssemblyReference.cache
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.AllReadline.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.Authorization.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.CreateRequest.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.History.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.Menu.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.ProblemDescryption.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.Properties.Resources.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.RegRequest.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.RegRequestMeneger.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.Request.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.UpDateRequest.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.UpDateRequestMaster.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.Users.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.Your.resources
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.exe
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.pdb
+C:\Users\429191-3\Desktop\CarService\CarService\bin\Debug\CarService.exe.config
+C:\Users\429191-3\Desktop\CarService\CarService\bin\Debug\CarService.exe
+C:\Users\429191-3\Desktop\CarService\CarService\bin\Debug\CarService.pdb
+C:\Users\429191-3\Desktop\CarService\CarService\bin\Debug\QRCoder.dll
+C:\Users\429191-3\Desktop\CarService\CarService\obj\Debug\CarService.csproj.Up2Date

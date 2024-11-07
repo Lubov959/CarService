@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\carservice\\regrequestmeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|solutionrelative:carservice\\regrequestmeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\carservice\\regrequestmeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|solutionrelative:carservice\\regrequestmeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\carservice\\regrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|solutionrelative:carservice\\regrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|h:\\demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\carservice\\carservice\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|solutionrelative:carservice\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|h:\\demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\carservice\\carservice\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|solutionrelative:carservice\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\carservice\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|solutionrelative:carservice\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\carservice\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|solutionrelative:carservice\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\carservice\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320C3181-C6A4-4384-8736-E8A7452E14B0}|CarService\\CarService.csproj|solutionrelative:carservice\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\DataBase.cs",
+              "RelativeDocumentMoniker": "CarService\\DataBase.cs",
+              "ToolTip": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\DataBase.cs",
+              "RelativeToolTip": "CarService\\DataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:50:07.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Authorization.cs",
+              "DocumentMoniker": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\Authorization.cs",
+              "RelativeDocumentMoniker": "CarService\\Authorization.cs",
+              "ToolTip": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\Authorization.cs",
+              "RelativeToolTip": "CarService\\Authorization.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwJEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:54:08.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\Menu.cs",
+              "RelativeDocumentMoniker": "CarService\\Menu.cs",
+              "ToolTip": "C:\\Users\\429191-3\\Desktop\\CarService\\CarService\\Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:02:40.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegRequest.cs",
+              "DocumentMoniker": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\RegRequest.cs",
+              "RelativeDocumentMoniker": "CarService\\RegRequest.cs",
+              "ToolTip": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\RegRequest.cs",
+              "RelativeToolTip": "CarService\\RegRequest.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:01:14.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegRequestMeneger.cs",
+              "DocumentMoniker": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\RegRequestMeneger.cs",
+              "RelativeDocumentMoniker": "CarService\\RegRequestMeneger.cs",
+              "ToolTip": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\RegRequestMeneger.cs",
+              "RelativeToolTip": "CarService\\RegRequestMeneger.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvz4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:58:48.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegRequestMeneger.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\RegRequestMeneger.cs",
+              "RelativeDocumentMoniker": "CarService\\RegRequestMeneger.cs",
+              "ToolTip": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\RegRequestMeneger.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CarService\\RegRequestMeneger.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:54:36.48Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\Menu.cs",
+              "RelativeDocumentMoniker": "CarService\\Menu.cs",
+              "ToolTip": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\Menu.cs",
+              "RelativeToolTip": "CarService\\Menu.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwC4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:34:47.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Request.cs",
+              "DocumentMoniker": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\Request.cs",
+              "RelativeDocumentMoniker": "CarService\\Request.cs",
+              "ToolTip": "H:\\Demo practice\\\u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\\CarService\\CarService\\Request.cs",
+              "RelativeToolTip": "CarService\\Request.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAiwPAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:33:58.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

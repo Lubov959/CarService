@@ -1,0 +1,6 @@
+H:\Demo practice\выполнение\ClassLibraryCarService\ClassLibraryCarService\obj\Debug\ClassLibraryCarService.csproj.AssemblyReference.cache
+H:\Demo practice\выполнение\ClassLibraryCarService\ClassLibraryCarService\obj\Debug\ClassLibraryCarService.csproj.CoreCompileInputs.cache
+H:\Demo practice\выполнение\ClassLibraryCarService\ClassLibraryCarService\bin\Debug\ClassLibraryCarService.dll
+H:\Demo practice\выполнение\ClassLibraryCarService\ClassLibraryCarService\bin\Debug\ClassLibraryCarService.pdb
+H:\Demo practice\выполнение\ClassLibraryCarService\ClassLibraryCarService\obj\Debug\ClassLibraryCarService.dll
+H:\Demo practice\выполнение\ClassLibraryCarService\ClassLibraryCarService\obj\Debug\ClassLibraryCarService.pdb
